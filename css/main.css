@@ -86,4 +86,5 @@ nav a {
 
 @media screen and (max-width: 314px) {
   nav a {
-    font-size: 12px; } }
+    font-size: 12px;
+    padding-right: 5px;} }
