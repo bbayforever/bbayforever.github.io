@@ -80,6 +80,17 @@ nav a {
     opacity: 1;
     mix-blend-mode: normal; } }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 433px) {
   nav a {
-    font-size: 19px; } }
+    font-size: 19px;
+  }
+}
+
+@media screen and (max-width: 365px) {
+  nav a {
+    font-size: 12px;
+  }
+  #quote h2{
+    font-size: 12px;
+  }
+}
