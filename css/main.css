@@ -83,3 +83,7 @@ nav a {
 @media screen and (max-width: 414px) {
   nav a {
     font-size: 19px; } }
+
+@media screen and (max-width: 314px) {
+  nav a {
+    font-size: 12px; } }
